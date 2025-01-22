@@ -33,4 +33,4 @@ php artisan serve
 # and
 npm run dev
 ```
-Open http://localhost:8000 in your browser to see the result.
+Open http://localhost:8000/patients in your browser to see the result.
