@@ -11,7 +11,7 @@ class Recipe extends Model
     /** @use HasFactory<\Database\Factories\RecipeFactory> */
     use HasFactory;
 
-    protected $table = 'recipe';
+    protected $table = 'recipes';
 
     protected $fillable = [
         'follow_number',
